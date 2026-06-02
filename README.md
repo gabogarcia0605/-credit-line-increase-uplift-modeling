@@ -30,4 +30,4 @@ This project originated from a formal academic thesis submitted to the **Mathema
 
 The thesis provides a rigorous mathematical treatment of heterogeneous treatment effect estimation, covering the theoretical foundations of the X-Learner framework, cross-fitting strategies for bias reduction, and empirical validation using uplift metrics in a credit risk context.
 
-📖 [Read the full thesis (Spanish) →]./thesis/Tesis_Lic_Matemáticas_Aplicadas_ITAM.pdf
+📖 [Read the full thesis (Spanish) →](./thesis/Tesis_Lic_Matematicas_Aplicadas_ITAM.pdf)
