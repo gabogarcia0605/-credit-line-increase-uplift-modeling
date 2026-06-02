@@ -18,6 +18,16 @@ Standard propensity models predict who is likely to accept a credit line increas
 - `requirements.txt`: Environment dependencies required to reproduce the execution pipeline.
 
 ## 📊 Evaluation & Production Alignment
-The model exhibits strong ranking and separation capabilities across uplift deciles, effectively isolating positive responders from groups with negative incremental lift (Sleeping Dogs). 
+The model exhibits strong ranking and separation capabilities across uplift deciles, effectively isolating positive responders from groups with negative incremental lift (Sleeping Dogs).
 
 *Note: Datasets used during production tracking have been completely removed from this repository to comply with privacy and confidentiality requirements. Data structures shown in the notebooks utilize fully randomized synthetic schemas (UUID generation).*
+
+## 📄 Academic Thesis
+This project originated from a formal academic thesis submitted to the **Mathematics Department at ITAM (Instituto Tecnológico Autónomo de México)**:
+
+> **"Estimación de Efectos Causales Heterogéneos mediante X-Learner para la Optimización de Estrategias de Aumento de Línea de Crédito"**
+> *Applied Mathematics — ITAM, 2025 (Under review)*
+
+The thesis provides a rigorous mathematical treatment of heterogeneous treatment effect estimation, covering the theoretical foundations of the X-Learner framework, cross-fitting strategies for bias reduction, and empirical validation using uplift metrics in a credit risk context.
+
+📖 [Read the full thesis (Spanish) →]./thesis/Tesis_Lic_Matemáticas_Aplicadas_ITAM.pdf
